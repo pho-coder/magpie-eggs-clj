@@ -1,5 +1,4 @@
-
-(defproject magpie-plumber-sorter "0.1.0-SNAPSHOT"
+(defproject albatross "0.1.0-SNAPSHOT"
   :description "magpie plumber jobs sorter"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"

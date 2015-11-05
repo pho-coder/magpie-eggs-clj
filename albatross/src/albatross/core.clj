@@ -1,4 +1,4 @@
-(ns magpie-plumber-sorter.core)
+(ns albatross.core)
 
 (defn foo
   "I don't do a whole lot."

@@ -1,6 +1,6 @@
-(ns magpie-plumber-sorter.core-test
+(ns albatross.core-test
   (:require [clojure.test :refer :all]
-            [magpie-plumber-sorter.core :refer :all]))
+            [albatross.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
